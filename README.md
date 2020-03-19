@@ -8,3 +8,5 @@ electron DnD dice roller
 3. `npm start`
 
 
+[screenshot]: https://i.imgur.com/m7Ko1Un.png
+[screenshot]

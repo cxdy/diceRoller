@@ -9,4 +9,4 @@ electron DnD dice roller
 
 
 [screenshot]: https://i.imgur.com/m7Ko1Un.png
-[screenshot]
+![screenshot][screenshot]

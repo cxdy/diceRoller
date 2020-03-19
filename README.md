@@ -7,6 +7,4 @@ electron DnD dice roller
 2. `npm install`
 3. `npm start`
 
-![alt text][screenshot]
 
-[screenshot]: https://previews.dropbox.com/p/thumb/AAtMBnK26MEMtkE6I1p_X_L2O2NS7jzl2goW_2v2GqhNu9pROx9NDAHvyGWcty0j5cSN00Kfi1S8nrV9BTlzaKE9Dr8rSkAqYmyTlCl6x4w_sVlrh63ToCvjE5Q7jPubaSEJ9mtyuhvt9hSF1E7nQEdM5fPoqK4Vya13VHGIwA7mtWItU0Jgbfi2aUH9iBvDmtlUIXP58lVdZImqQea0IiATybNYy65KTkt4cIwGb5wHxohfH-7TwZPwo4Fk6eIfVz4FRk3bnBrARgiX9OTe-AscD28Dy3AMERy6XGJxqmsAfH7NiY1kd1W51t2ALcsikdYNX_jmzKvBRK1L0pRjlGM7Quty2J8CqmRwiZzscfUy7ttpegsPDY_TayI4PWgdLaXou4m_qHmhCsuhOumll2HXcD8KdrZ-z-dTeGb96953tFlsRDh_fA2gBOWef8ewqLM/p.png
